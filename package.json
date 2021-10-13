@@ -1,0 +1,19 @@
+{
+  "name": "job-rate-server",
+  "version": "1.0.0",
+  "description": "job-rate server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmerTavor/job-rate-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerTavor/job-rate-server/issues"
+  },
+  "homepage": "https://github.com/OmerTavor/job-rate-server#readme"
+}
